@@ -43,4 +43,4 @@ Me defino por ser una persona con ganas de aprender y un gran líder de equipos 
 
 ---
 
-📄 [Currículum en PDF](https://drive.google.com/file/d/1ZoNvDYpj3Hl6RHg7GwEO1e1CqRvdSIBg/view?usp=sharing)
+📄 [Currículum en PDF](Lluc.pdf)
